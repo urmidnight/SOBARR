@@ -329,6 +329,7 @@ h6 {
 
 #hero .social-links a:hover {
   color: #0563bb;
+  transform: scale(0.8);
 }
 
 @media (max-width: 992px) {
@@ -1190,6 +1191,7 @@ a {
 
 .contact .php-email-form button[type="submit"]:hover {
   background: #0678e3;
+  transform: scale(0.9);
 }
 
 @keyframes animate-loading {
@@ -1252,6 +1254,7 @@ a {
   background: #0678e3;
   color: #fff;
   text-decoration: none;
+  transform: scale(0.8);
 }
 
 #footer .copyright {
