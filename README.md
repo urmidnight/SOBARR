@@ -15,7 +15,5 @@ Website portofolio ini dirancang untuk:
 Anda dapat mengunjungi website portofolio saya di [https://hafizaryan.netlify.app](https://hafizaryan.netlify.app). Website ini dirancang dengan menggunakan teknologi berikut:
 
 - HTML
-- CSS
+- CSS Bootstrap
 - JavaScript
-
-
